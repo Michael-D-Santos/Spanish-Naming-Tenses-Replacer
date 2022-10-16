@@ -17,3 +17,5 @@ I personally have some disputes with how certain Spanish tenses are named, and a
 ## Closing Notes
 
 I hope you thoroughly appreciate and relish in this userscript! Please bring up any issues or errors to my attention and I'll see to it that they get fixed on; enjoy!
+
+<img src="https://github.com/Michael-D-Santos/Spanish-Naming-Tenses-Replacer/blob/main/beforeandafter-preview.png" width="614" height="554">
